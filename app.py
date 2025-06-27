@@ -35,7 +35,7 @@ def get_prediction(payload):
 """
 # Machine Learning Engineering
 
-## Predição de Preço de Laptop
+## Predição de Preço de Laptop em BRL
 
 Este modelo é capaz de prever o preço de um laptop dada algumas características.
 
